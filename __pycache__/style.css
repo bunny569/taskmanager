@@ -1,0 +1,54 @@
+body{
+    background:url(https://images.openai.com/static-rsc-4/NXDcZA4hwHY-hogDefy4pn9sVv-ZjklEhHwdoMx8_S1D0Zm9UfUVHsnzCKdySNTt-3YwDOwhSItCLvOzocgFpqob_B_3ZB4pyIIAUYjFHuhDcguaRjTPBULAEtJ5LMQ-Ynm_YCLt-Fwshej2MkobzAQhKhszfVhImEC34JXxu4eztzBR9CoHDl0YsGuL1tvI?purpose=fullsize);
+    margin-left:0px;
+}
+
+#taskbox{
+    height:500px;
+    width:500px;
+    background: rgba(255,255,255,0.2);
+    backdrop-filter: blur(15px);
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+    margin-top:25px;
+    font-weight:500;
+    
+
+}
+#mainbox{
+    min-height:200px;
+    width:auto;
+    border: 2px solid #f38cfa  ;
+    background-color:#f38cfa
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    font-family: 'Pacifico', cursive;
+
+}
+label{
+    font-family: 'Pacifico', cursive;
+}
+#font{
+    margin-top:50px;
+}
+#task{
+    width:250px;
+}
+#button{
+ margin-top:5px;
+}
+#task li{
+    list-style:none;
+    padding:10px;
+    background: rgba(255,255,255,0.6);
+    border-radius:10px;
+    margin-top:5px;
+    font-weight:500;
+    color:black;
+}
+#task input{
+    margin-right:20px;
+}
